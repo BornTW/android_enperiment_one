@@ -6,7 +6,7 @@
 ![](https://github.com/BornTW/android_enperiment_one/blob/master/images/QQ20190316191835.png)  
 
 单机模拟器的“返回”按钮，可以看到程序退出，同时LogCat中有新的日志输出.当调用了onDestory()方法后，Activity被销毁清理内存，截图：
-![](https://github.com/BornTW/android_enperiment_one/blob/master/images/QQ20190316191835.png)  
+![](https://github.com/BornTW/android_enperiment_one/blob/master/images/QQ20190316182322.png)  
 
 
 
